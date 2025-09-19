@@ -1,0 +1,28 @@
+
+Music Maykers, LLC
+Tell Your Story
+Playlists
+Options
+Listen
+Contact
+Music Maykers — Control Center
+Official site is deploying. This is a temporary live page so partners can reach us while we finalize the build.
+Jump to Listen
+Listen
+
+If the player shows “forbidden”, set the playlist to public/embeddable and allow musicmaykers.net in DISCO (Share → Security), then re-copy the embed.
+Featured
+	•	Tell Your Story — creator intro, values, brand voice
+	•	Playlists — showcase lists for supervisors & fans
+	•	Options — licensing, contact, next actions
+Tell Your Story
+Use this section to introduce Music Maykers, your mission, and the catalog. We’ll expand this with images and copy once we lock voice and layout.
+Playlists
+Add curated and supervisor-friendly playlists here (e.g., “Film Instros”, “Up-Tempo”, “Emotional Cues”).
+Options
+Licensing & contact options will sit here. We’ll integrate forms/links after we finalize routing.
+Contact
+Email: contact@musicmaykers.net
+
+Scan for EPK / links
+© 2025 Music Maykers, LLC — Secure • HTTPS enabled
