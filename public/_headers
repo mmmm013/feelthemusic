@@ -1,0 +1,5 @@
+/stl.html
+  Content-Type: text/html; charset=utf-8
+
+/stl/*
+  Content-Type: text/html; charset=utf-8

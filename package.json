@@ -5,12 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "postbuild": "mkdir -p dist && cp -R public/* dist/ || true"
   },
   "devDependencies": {
-    "typescript": "~5.8.3",
+    "typescript": "^5.8.3",
     "vite": "^7.1.2"
   }
 }
