@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Cmon Christmas!",
+    "artist": "Wounded & Willing",
+    "isrc": "908608207",
+    "type": "Vocal",
+    "duration": "3:21",
+    "oneStop": true,
+    "url": "PUT_AUDIO_LINK_HERE"
+  },
+  {
+    "title": "Cmon Christmas! (INSTRO)",
+    "artist": "Wounded & Willing",
+    "isrc": "908608208",
+    "type": "Instrumental",
+    "duration": "3:21",
+    "oneStop": true,
+    "url": "PUT_AUDIO_LINK_HERE"
+  }
+]
